@@ -1,0 +1,6 @@
+notebooks/
+.git/
+.venv/
+__pycache__/
+*.ipynb
+README.md
